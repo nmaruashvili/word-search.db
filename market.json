@@ -1,0 +1,16 @@
+{
+  "avatars": [
+    {
+      "id": "avatar_1",
+      "cost": 0
+    },
+    {
+      "id": "avatar_2",
+      "cost": 0
+    },
+    {
+      "id": "avatar_3",
+      "cost": 800
+    }
+  ]
+}
