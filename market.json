@@ -18,7 +18,27 @@
     },
     {
       "id": "avatar_5",
-      "cost": 800
+      "cost": 1000
+    },
+    {
+      "id": "avatar_6",
+      "cost": 1000
+    },
+    {
+      "id": "avatar_7",
+      "cost": 1000
+    },
+    {
+      "id": "avatar_8",
+      "cost": 1000
+    },
+    {
+      "id": "avatar_9",
+      "cost": 1000
+    },
+    {
+      "id": "avatar_10",
+      "cost": 1000
     }
   ]
 }
